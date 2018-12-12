@@ -4,7 +4,7 @@ import { TodoStore } from "../store";
 
 // default fixtures for TodoStore
 const defaultTodos: TodoModel[] = [
-  new TodoModel("Fucking keep dying"),
+  new TodoModel("Live without dying"),
   new TodoModel("Die Trying"),
   new TodoModel("Use Mobx"),
   new TodoModel("Use React", true)
